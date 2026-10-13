@@ -41,7 +41,7 @@ Exploring e-commerce sales performance, product trends, and business metrics thr
 ## 🤝 Connect With Me
 
 - **GitHub:** [RonakGoyal11](https://github.com/RonakGoyal11)
-- **LinkedIn:** [https://www.linkedin.com/in/ronakgoyal-iiit/]
+- **LinkedIn:** https://www.linkedin.com/in/ronakgoyal-iiit/
 <!--
 **RonakGoyal11/RonakGoyal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
