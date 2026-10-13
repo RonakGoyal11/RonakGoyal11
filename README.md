@@ -53,7 +53,7 @@ Analyzed historical trading data to study profitability, trade frequency, and ri
 
 **Tech:** Python, Pandas, NumPy, Matplotlib, Time-Series Analysis
 
-[🔗 Explore My Repositories](https://github.com/RonakGoyal11?tab=repositories)
+[🔗 View Repository](https://github.com/RonakGoyal11/Trading_Analysis)
 
 ---
 
